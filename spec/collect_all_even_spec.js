@@ -1,5 +1,6 @@
 'use strict';
 
+let pan ting 
 var collect_all_even = require('../src/collect_all_even.js');
 
 describe('collect_all_even', function () {
